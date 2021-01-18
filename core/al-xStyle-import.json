@@ -1,0 +1,31 @@
+[
+  {
+    "type": "css",
+    "lastModified": 8888888888888,
+    "name": "al-xStyle",
+    "enabled": 1,
+    "updateUrl": "https://imaliang.github.io/my-xstyle/core/al-xStyle-core.json",
+    "md5Url": "https://imaliang.github.io/my-xstyle/core/al-xStyle-core.md5",
+    "url": "https://imaliang.github.io/my-xstyle/core/al-xStyle-core.json",
+    "advanced": {
+      "saved": {},
+      "item": {}
+    },
+    "originalMd5": "20210115000000000000000000000001",
+    "author": "aliang",
+    "autoUpdate": true,
+    "code": "",
+    "sections": [
+      {
+        "urls": [],
+        "urlPrefixes": [],
+        "domains": [
+          ""
+        ],
+        "regexps": [],
+        "exclude": [],
+        "code": ""
+      }
+    ]
+  }
+]
